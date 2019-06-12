@@ -48,3 +48,5 @@ def efield_depth(trialno):
     ch_results = 100*(all_chs[0,:]-all_chs[1,:])/250
     
     return ch_results
+
+test
